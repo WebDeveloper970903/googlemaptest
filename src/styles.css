@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+.find-btn-div {
+  position: absolute;
+  top: 60px;
+  left: 20px;
+}
+
+.find-locatin-btn {
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  padding: 10px 20px;
+  outline: none;
+  background-color: rgb(223, 75, 30);
+  color: white;
+}

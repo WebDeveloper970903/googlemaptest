@@ -1,2 +1,0 @@
-# googlemaptest
-Created with CodeSandbox
