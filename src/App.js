@@ -23,7 +23,7 @@ export default function App() {
             pos.lat +
             "," +
             pos.lng +
-            "&key=AIzaSyDoi0kDoetjxsvsctCrRb99I5lu1GJMj_8";
+            "&key=?????????";
           fetch(url, { method: "get" })
             .then(res => res.json())
             .then(result => {
